@@ -1,0 +1,25 @@
+2020-09-04 10:55:04,689  [INFO] 程序启动...
+2020-09-04 10:55:04,732  [INFO] 读取配置文件成功
+2020-09-04 10:55:04,736  [INFO] dirName = ../rss/
+2020-09-04 10:55:04,788  [INFO] loadFile /home/zhou/Desktop/cppStudy/project/rssSearchEngine6/offline/rss/songshuhui.xml
+2020-09-04 10:55:04,848  [INFO] loadFile /home/zhou/Desktop/cppStudy/project/rssSearchEngine6/offline/rss/phonekr.xml
+2020-09-04 10:55:05,012  [INFO] loadFile /home/zhou/Desktop/cppStudy/project/rssSearchEngine6/offline/rss/Engadget_中国版.xml
+2020-09-04 10:55:05,024  [INFO] loadFile /home/zhou/Desktop/cppStudy/project/rssSearchEngine6/offline/rss/techweb.xml
+2020-09-04 10:55:05,057  [INFO] loadFile /home/zhou/Desktop/cppStudy/project/rssSearchEngine6/offline/rss/feed.xbeta.info.xml
+2020-09-04 10:55:05,130  [INFO] loadFile /home/zhou/Desktop/cppStudy/project/rssSearchEngine6/offline/rss/xbeta.info.xml
+2020-09-04 10:55:05,205  [INFO] loadFile /home/zhou/Desktop/cppStudy/project/rssSearchEngine6/offline/rss/feed.smzdm.com.xml
+2020-09-04 10:55:05,233  [INFO] loadFile /home/zhou/Desktop/cppStudy/project/rssSearchEngine6/offline/rss/geekfan.xml
+2020-09-04 10:55:05,295  [INFO] loadFile /home/zhou/Desktop/cppStudy/project/rssSearchEngine6/offline/rss/jobbole.xml
+2020-09-04 10:55:05,414  [INFO] loadFile /home/zhou/Desktop/cppStudy/project/rssSearchEngine6/offline/rss/geekpark.xml
+2020-09-04 10:55:05,443  [INFO] loadFile /home/zhou/Desktop/cppStudy/project/rssSearchEngine6/offline/rss/微软亚洲研究院.xml
+2020-09-04 10:55:05,485  [INFO] loadFile /home/zhou/Desktop/cppStudy/project/rssSearchEngine6/offline/rss/ifanr.xml
+2020-09-04 10:55:05,545  [INFO] loadFile /home/zhou/Desktop/cppStudy/project/rssSearchEngine6/offline/rss/leiphone.xml
+2020-09-04 10:55:05,622  [INFO] loadFile /home/zhou/Desktop/cppStudy/project/rssSearchEngine6/offline/rss/douban.book.review.xml
+2020-09-04 10:55:05,704  [INFO] loadFile /home/zhou/Desktop/cppStudy/project/rssSearchEngine6/offline/rss/xubeng.xml
+2020-09-04 10:55:05,870  [INFO] loadFile /home/zhou/Desktop/cppStudy/project/rssSearchEngine6/offline/rss/feed.iplaysoft.com.xml
+2020-09-04 10:55:05,968  [INFO] loadFile /home/zhou/Desktop/cppStudy/project/rssSearchEngine6/offline/rss/iteye_news.xml
+2020-09-04 10:55:06,143  [INFO] loadFile /home/zhou/Desktop/cppStudy/project/rssSearchEngine6/offline/rss/coolshell.xml
+2020-09-04 10:55:06,327  [INFO] loadFile /home/zhou/Desktop/cppStudy/project/rssSearchEngine6/offline/rss/酷壳.xml
+2020-09-04 10:55:06,513  [INFO] loadFile /home/zhou/Desktop/cppStudy/project/rssSearchEngine6/offline/rss/36kr.xml
+2020-09-04 10:55:06,747  [INFO] loadFile /home/zhou/Desktop/cppStudy/project/rssSearchEngine6/offline/rss/portablesoft.xml
+2020-09-04 10:55:06,771  [INFO] total load 21 files
